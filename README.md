@@ -28,15 +28,12 @@ b. Returns the following:
 /about/2 8 unique views /index 5 unique views etc...
 
 ## Prerequisites
-Make sure you have rspec
+Make sure you have rspec: 
 $ gem install r_spec
 
 ## Running
 To run the app:
 $ ruby lib/parser.rb
 
-To run the test
-& rspec
-
-# Resources
-Rubular 
+To run the test:
+$ rspec
