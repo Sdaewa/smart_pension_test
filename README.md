@@ -1,4 +1,4 @@
-###Smart pension test
+### Smart pension test
 The test is for us to see how you code and the methodologies you use, what we will be looking for in this test are the following:
 
 ● Functionality
@@ -14,7 +14,7 @@ these are part of your complete test.
 
 ● Feel free to submit your solution as a link to your source control repository
 
-##Test
+## Test
 The test is as follows:
 
 1. Write a program that:
@@ -27,16 +27,16 @@ b. Returns the following:
 > list of webpages with most unique page views also ordered e.g.:
 /about/2 8 unique views /index 5 unique views etc...
 
-##Prerequisites
+## Prerequisites
 Make sure you have rspec
 $ gem install r_spec
 
-##Running
+## Running
 To run the app:
 $ ruby lib/parser.rb
 
 To run the test
 & rspec
 
-#Resources
+# Resources
 Rubular 
